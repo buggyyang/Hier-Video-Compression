@@ -1,2 +1,3 @@
 - Codebase for [Hierarchical Autoregressive Modeling for Neural Video Compression](https://arxiv.org/abs/2010.10258)
 - The codebase also contains some extension works that are included in [Insights from Generative Modeling for Neural Video Compression](https://arxiv.org/abs/2107.13136)
+- The codes for our Youtube-NT dataset is available [here](https://github.com/buggyyang/Youtube-NT)
