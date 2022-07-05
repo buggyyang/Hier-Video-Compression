@@ -1,0 +1,7 @@
+logs/
+*.mp4
+*.sh
+__pycache__/
+model_params/
+tensorboard_logs/
+test_npys/
